@@ -1,0 +1,7 @@
+D:\C\Coding\CS\Spammer\Spammer\bin\Debug\Spammer.exe.config
+D:\C\Coding\CS\Spammer\Spammer\bin\Debug\Spammer.exe
+D:\C\Coding\CS\Spammer\Spammer\bin\Debug\Spammer.pdb
+D:\C\Coding\CS\Spammer\Spammer\obj\Debug\Spammer.csprojAssemblyReference.cache
+D:\C\Coding\CS\Spammer\Spammer\obj\Debug\Spammer.csproj.CoreCompileInputs.cache
+D:\C\Coding\CS\Spammer\Spammer\obj\Debug\Spammer.exe
+D:\C\Coding\CS\Spammer\Spammer\obj\Debug\Spammer.pdb
